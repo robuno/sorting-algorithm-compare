@@ -6,9 +6,6 @@ using namespace std;
 /**
 * Sorting Algorithms Implementation
 * Unat Teksen
-* 20181701048
-* Computer Engineering
-* 23.05.2021
 *
 * This is the sorting algorithms comparison application that creates
 * two same vectors in length 1000, and two same vectors in length 1000.
